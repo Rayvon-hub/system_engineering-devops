@@ -1,2 +1,4 @@
 #!/bin/bash
 cd ~
+source 0x00-shell_basics/2-bring_me_home
+pwd
